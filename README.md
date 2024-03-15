@@ -37,3 +37,13 @@
 
 - By saving this information, we can analyze trends and preferences among users and the popularity of books.
 - This analysis helps in making informed decisions and recommendations based on user interests.
+
+
+
+![Screenshot 2024-03-14 134147](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/3d2c7397-00ec-4848-9c08-a35249f8bdfd)
+![Screenshot 2024-03-14 134335](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/8466dc8e-0ba9-4e6b-909b-c5a1a739075a)
+![Screenshot 2024-03-14 134408](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/a508ab86-62e4-45da-bfe6-42bc60b809f4)
+![Screenshot 2024-03-14 134354](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/951a9f7e-1730-4299-a99c-6e7053a61f28)
+
+
+

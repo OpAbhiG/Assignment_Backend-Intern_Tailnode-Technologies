@@ -1,11 +1,19 @@
-# Assignment README
+# Python Intern Assignment 
 
+
+## "I have received significant documents and instructions from the company via email."
+
+   1   https://docs.google.com/document/d/1t1hJQ_cw5BuZsVZ_840mWc-qRJIIJopakazEvee-9PU/edit
+   
+   2   https://docs.google.com/document/d/1Dhs9RVD-PAeF-TDMB7s9tHZT-VMM-tyKiB8C-WBUFac/edit
+   
 ## How to Run
 
 1. Make sure you have Python installed on your system.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the `assignment_BE_intern_Tailnode.py` file.
 4. Run the script using the following command:
+
    ```
    python assignment_BE_intern_Tailnode.py
    ```
@@ -39,11 +47,9 @@
 - This analysis helps in making informed decisions and recommendations based on user interests.
 
 
+## Result
 
 ![Screenshot 2024-03-14 134147](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/3d2c7397-00ec-4848-9c08-a35249f8bdfd)
 ![Screenshot 2024-03-14 134335](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/8466dc8e-0ba9-4e6b-909b-c5a1a739075a)
 ![Screenshot 2024-03-14 134408](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/a508ab86-62e4-45da-bfe6-42bc60b809f4)
 ![Screenshot 2024-03-14 134354](https://github.com/OpAbhiG/assignment_BE_intern_Tailnode/assets/110295591/951a9f7e-1730-4299-a99c-6e7053a61f28)
-
-
-
